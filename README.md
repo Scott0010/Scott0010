@@ -1,6 +1,4 @@
-body {
-    background-image: url('images/background.png');
-    }
+
 
 <h1 align="center">Hi 👋, I'm Muskan Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
