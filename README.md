@@ -1,9 +1,6 @@
 body {
-    background-image: url('Screenshot 2025-02-08 at 12.03.02 AM.png');
-    background-size: cover;  /* Adjusts the image to cover the full screen */
-    background-repeat: no-repeat; /* Prevents tiling */
-    background-position: center; /* Centers the image */
-}
+    background-image: url('images/background.png');
+    }
 
 <h1 align="center">Hi 👋, I'm Muskan Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
